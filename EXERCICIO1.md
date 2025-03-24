@@ -6,3 +6,8 @@ Do ponto de vista da aplicacao: GET, POST, PUT, Delete, etc
 ## Exercicio2 
 
 ....
+
+## Exercicio 3
+
+...
+
